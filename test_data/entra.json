@@ -1,0 +1,9 @@
+[
+  {
+    "event_type": "sign_in",
+    "userPrincipalName": "john@example.com",
+    "ipAddress": "10.10.10.10",
+    "riskLevel": "high",
+    "timestamp": "2026-08-27T10:30:00"
+  }
+]

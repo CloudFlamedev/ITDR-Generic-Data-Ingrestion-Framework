@@ -1,0 +1,9 @@
+[
+  {
+    "user": "azure-user@example.com",
+    "client_Ip": "10.30.10.10",
+    "operation": "UserLogin",
+    "risk": "medium",
+    "time": "2026-08-27T16:00:00"
+  }
+]

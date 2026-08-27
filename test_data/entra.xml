@@ -1,0 +1,17 @@
+<events>
+    <event>
+        <userPrincipalName>charlie@example.com</userPrincipalName>
+        <ipAddress>10.10.10.40</ipAddress>
+        <riskLevel>low</riskLevel>
+        <eventType>sign_in</eventType>
+        <timestamp>2026-08-27T13:00:00</timestamp>
+    </event>
+
+    <event>
+        <userPrincipalName>david@example.com</userPrincipalName>
+        <ipAddress>10.10.10.50</ipAddress>
+        <riskLevel>high</riskLevel>
+        <eventType>sign_in</eventType>
+        <timestamp>2026-08-27T14:00:00</timestamp>
+    </event>
+</events>

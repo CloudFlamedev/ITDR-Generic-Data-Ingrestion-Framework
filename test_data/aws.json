@@ -1,0 +1,9 @@
+[
+  {
+    "userName": "aws-user",
+    "sourceIPAddress": "10.20.10.10",
+    "eventName": "ConsoleLogin",
+    "riskLevel": "high",
+    "eventTime": "2026-08-27T15:00:00"
+  }
+]
